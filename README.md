@@ -1,4 +1,4 @@
-# projeto_final_DS
+# Projeto Final - Design de Software
 Projeto final de Design de Software - INSPER
 
 Integrantes: 
